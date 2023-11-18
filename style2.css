@@ -65,13 +65,13 @@ body{
 }
 
 .description{
-    font-size: 5rem;
+    font-size: 8rem;
     margin-bottom: 20px;
 }
 
 .button a{
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 7rem;
     color: #111;
 }
 
@@ -83,10 +83,10 @@ body{
         text-align: center;
     }
     .description{
-        font-size: 5rem;
+        font-size: 8rem;
     }
     
     .button a{
-        font-size: .5rem;
+        font-size: .7rem;
     }
 }
